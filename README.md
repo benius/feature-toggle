@@ -7,3 +7,5 @@ Feature Toggle Service for Spring Boot 3
 ## Configuration
 
 ## License
+
+## Author
